@@ -1,5 +1,4 @@
 # PersonalityTest
-A personality test framework based on OCEAN scores
 
 This was a project for CS251: Data Structures. It's a general personality test framework which allows
 creators to input any prompts imaginable, map them to five different scores (OCEAN values), and select a
