@@ -1,0 +1,486 @@
+I am the life of the party. E:1
+I talk to a lot of different people at parties. E:1
+I start conversations. E:1
+I love large parties. E:1
+I don't talk a lot. E:-1
+I keep in the background. E:-1
+I am quiet around strangers. E:-1
+I don't like to draw attention to myself. E:-1
+I bottle up my feelings. E:-1
+I keep my thoughts to myself. E:-1
+I make friends easily. A:1 E:1
+I am open about my feelings. A:1 E:1
+I act comfortably with others. A:1 E:1
+I radiate joy. A:1 E:1
+I warm up quickly to others. A:1 E:1
+I am hard to get to know. A:-1 E:-1
+I am a very private person. A:-1 E:-1
+I avoid contacts with others. A:-1 E:-1
+I keep others at a distance. A:-1 E:-1
+I reveal little about myself. A:-1 E:-1
+I automatically take charge. C:1 E:1
+I can easily push myself forward. C:1 E:1
+I try to lead others. C:1 E:1
+I turn plans into actions. C:1 E:1
+I stick up for myself. C:1 E:1
+I am always busy. C:1 E:1
+I come up with a solution right away. C:1 E:1
+I do a lot in my spare time. C:1 E:1
+I know what I want. C:1 E:1
+I let myself be pushed around. C:-1 E:-1
+I am not highly motivated to succeed. C:-1 E:-1
+I need a lot of time to do things. C:-1 E:-1
+I feel comfortable around people. N:1 E:1
+I am comfortable in unfamiliar situations. N:1 E:1
+I have a lot of fun. N:1 E:1
+I am not embarrassed easily. N:1 E:1
+I love life. N:1 E:1
+I often feel uncomfortable around others. N:-1 E:-1
+I find it difficult to approach others. N:-1 E:-1
+I retreat from others. N:-1 E:-1
+I give up easily. N:-1 E:-1
+I only feel comfortable with friends. N:-1 E:-1
+I take charge. O:1 E:1
+I know how to captivate people. O:1 E:1
+I express myself easily. O:1 E:1
+I am the first to act. O:1 E:1
+I never at a loss for words. O:1 E:1
+I have little to say. O:-1 E:-1
+I have difficulty expressing my feelings. O:-1 E:-1
+I wait for others to lead the way. O:-1 E:-1
+I am afraid to draw attention to myself. O:-1 E:-1
+I let others make the decisions. O:-1 E:-1
+I dare to say anything. A:-1 E:1
+I am not afraid of providing criticism. A:-1 E:1
+I boast about my virtues. A:-1 E:1
+I know no limits. A:-1 E:1
+I know how to get around the rules. A:-1 E:1
+I can take strong measures. A:-1 E:1
+I don't mind being the center of attention. A:-1 E:1
+I make demands on others. A:-1 E:1
+I can't stand confrontations. A:1 E:-1
+I wait for my turn. A:1 E:-1
+I hate to seem pushy. A:1 E:-1
+I act wild and crazy. C:-1 E:1
+I am open about myself to others. C:-1 E:1
+I let myself go. C:-1 E:1
+I disclose my intimate thoughts. C:-1 E:1
+I laugh my way through life. C:-1 E:1
+I express childlike joy. C:-1 E:1
+I joke around a lot. C:-1 E:1
+I like to amuse others. C:-1 E:1
+I seldom joke around. C:1 E:-1
+I prefer to deal with strangers in a formal manner. C:1 E:-1
+I do most of the talking. N:-1 E:1
+I talk too much. N:-1 E:1
+I speak loudly. N:-1 E:1
+I make myself the center of attention. N:-1 E:1
+I like to attract attention. N:-1 E:1
+I never stop talking. N:-1 E:1
+I make a lot of noise. N:-1 E:1
+I demand to be the center of interest. N:-1 E:1
+I speak softly. N:1 E:-1
+I dislike talking about myself. N:1 E:-1
+I can't do without the company of others. O:-1 E:1
+I enjoy being part of a loud crowd. O:-1 E:1
+I enjoy being on the go. O:-1 E:1
+I like to be alone. O:1 E:-1
+I seek quiet. O:1 E:-1
+I enjoy silence. O:1 E:-1
+I don't like crowded events. O:1 E:-1
+I dislike neighbors living too close. O:1 E:-1
+I amuse myself easily. O:1 E:-1
+I go my own way. O:1 E:-1
+I sympathize with others' feelings. A:1
+I respect others' feelings. A:1
+I take others' interests into account. A:1
+I like to be of service to others. A:1
+I appreciate the viewpoints of others. A:1
+I feel little concern for others. A:-1
+I am not interested in other people's problems. A:-1
+I am indifferent to the feelings of others. A:-1
+I take no time for others. A:-1
+I can't be bothered with other's needs. A:-1
+I am interested in people. E:1 A:1
+I make people feel at ease. E:1 A:1
+I know how to comfort others. E:1 A:1
+I inquire about others' well-being. E:1 A:1
+I take time out for others. E:1 A:1
+I make people feel welcome. E:1 A:1
+I show my gratitude. E:1 A:1
+I make others feel good. E:1 A:1
+I feel others' emotions. E:1 A:1
+I am not really interested in others. E:-1 A:-1
+I rarely smile. E:-1 A:-1
+I would never cheat on my taxes. C:1 A:1
+I respect the privacy of others. C:1 A:1
+I like harmony in my life. C:1 A:1
+I try to follow the rules. C:1 A:1
+I respect authority. C:1 A:1
+I don't care about rules. C:-1 A:-1
+I turn my back on others. C:-1 A:-1
+I only talk about my own interests. C:-1 A:-1
+I overestimate my achievements. C:-1 A:-1
+I scheme against others. C:-1 A:-1
+I act at the expense of others. C:-1 A:-1
+I break rules. C:-1 A:-1
+I am easy to satisfy. N:1 A:1
+I have a good word for everyone. N:1 A:1
+I am on good terms with nearly everyone. N:1 A:1
+I trust others. N:1 A:1
+I respect others. N:1 A:1
+I trust what people say. N:1 A:1
+I am hard to satisfy. N:-1 A:-1
+I am quick to judge others. N:-1 A:-1
+I insult people. N:-1 A:-1
+I find it hard to forgive others. N:-1 A:-1
+I contradict others. N:-1 A:-1
+I criticize others' shortcomings. N:-1 A:-1
+I anticipate the needs of others. O:1 A:1
+I sense others' wishes. O:1 A:1
+I love to reflect on things. O:1 A:1
+I try to stay in touch with myself. O:1 A:1
+I work on improving myself. O:1 A:1
+I pretend to be concerned for others. O:-1 A:-1
+I don't have a soft side. O:-1 A:-1
+I treat people as inferiors. O:-1 A:-1
+I am not in touch with my feelings. O:-1 A:-1
+I value cooperation over competition. E:-1 A:1
+I listen to my conscience. E:-1 A:1
+I impose my will on others. E:1 A:-1
+I love a good fight. E:1 A:-1
+I seek conflict. E:1 A:-1
+I think too highly of myself. E:1 A:-1
+I tell tall stories about myself. E:1 A:-1
+I play tricks on others. E:1 A:-1
+I enjoy crude jokes. E:1 A:-1
+I comment loudly about others. E:1 A:-1
+I enjoy being reckless. E:1 A:-1
+I do dangerous things. E:1 A:-1
+I am concerned about others. C:-1 A:1
+I am deeply moved by others' misfortunes. C:-1 A:1
+I feel sympathy for those who are worse off than myself. C:-1 A:1
+I take an interest in other people's lives. C:-1 A:1
+I like to do things for others. C:-1 A:1
+I reassure others. C:-1 A:1
+I demand a lot from others. C:1 A:-1
+I don't fall for sob-stories. C:1 A:-1
+I listen to my brain rather than my heart. C:1 A:-1
+I tend to dislike soft-hearted people. C:1 A:-1
+I try not to think about the needy. C:1 A:-1
+I look down on any weakness. C:1 A:-1
+I believe people should fend for themselves. C:1 A:-1
+I suffer from others' sorrows. N:-1 A:1
+I listen to my heart rather than my brain. N:-1 A:1
+I love children's movies. N:-1 A:1
+I want to please others. N:-1 A:1
+I remember my friends' birthdays. N:-1 A:1
+I cherish mementos. N:-1 A:1
+I want to mean something to others. N:-1 A:1
+I believe crying helps me feel better. N:-1 A:1
+I show my feelings. N:-1 A:1
+I don't understand people who get emotional. N:1 A:-1
+I don't get excited about things. N:1 A:-1
+I don't call people just to talk. N:1 A:-1
+I don't care about dressing nicely. N:1 A:-1
+I have a soft heart. O:-1 A:1
+I go out of my way for others. O:-1 A:1
+I think of others first. O:-1 A:1
+I will do anything for others. O:-1 A:1
+I like to please others. O:-1 A:1
+I wouldn't harm a fly. O:-1 A:1
+I make enemies. O:1 A:-1
+I oppose authority. O:1 A:-1
+I believe that I am better than others. O:1 A:-1
+I seek danger. O:1 A:-1
+I put people under pressure. O:1 A:-1
+I try to outdo others. O:1 A:-1
+I believe only in myself. O:1 A:-1
+I accomplish my work on time. C:1
+I do things according to a plan. C:1
+I am careful to avoid making mistakes. C:1
+I keep my checkbook balanced. C:1
+I like to plan ahead. C:1
+I return borrowed items. C:1
+I often forget to put things back in their proper place. C:-1
+I neglect my duties. C:-1
+I take tasks too lightly. C:-1
+I leave my work undone. C:-1
+I do not plan ahead. C:-1
+I put off unpleasant tasks. C:-1
+I am often late to work. C:-1
+I am exacting in my work. E:1 C:1
+I make plans and stick to them. E:1 C:1
+I get chores done right away. E:1 C:1
+I follow through with my plans. E:1 C:1
+I finish what I start. E:1 C:1
+I waste my time. E:-1 C:-1
+I find it difficult to get down to work. E:-1 C:-1
+I postpone decisions. E:-1 C:-1
+I have difficulty starting tasks. E:-1 C:-1
+I need a push to get started. E:-1 C:-1
+I frequently forget to do things. E:-1 C:-1
+I follow directions. A:1 C:1
+I keep myself well-groomed. A:1 C:1
+I check over my work. A:1 C:1
+I behave properly. A:1 C:1
+I stick to the rules. A:1 C:1
+I appreciate good manners. A:1 C:1
+I do improper things. A:-1 C:-1
+I disregard rules. A:-1 C:-1
+I do the opposite of what is asked. A:-1 C:-1
+I pay no attention to my appearance. A:-1 C:-1
+I don't think laws apply to me. A:-1 C:-1
+I make rash decisions. A:-1 C:-1
+I say inappropriate things. A:-1 C:-1
+I am always prepared. N:1 C:1
+I carry out my plans. N:1 C:1
+I get to work at once. N:1 C:1
+I am not easily distracted. N:1 C:1
+I handle tasks smoothly. N:1 C:1
+I make a mess of things. N:-1 C:-1
+I am easily distracted. N:-1 C:-1
+I mess things up. N:-1 C:-1
+I shirk my duties. N:-1 C:-1
+I don't see things through. N:-1 C:-1
+I do things at the last minute. N:-1 C:-1
+I can't make up my mind. N:-1 C:-1
+I pay attention to details. O:1 C:1
+I complete tasks successfully. O:1 C:1
+I have an eye for detail. O:1 C:1
+I demand quality. O:1 C:1
+I set high standards for myself and others. O:1 C:1
+I make well-considered decisions. O:1 C:1
+I follow through on my commitments. O:1 C:1
+I detect mistakes. O:1 C:1
+I think ahead. O:1 C:1
+I seldom notice details. O:-1 C:-1
+I put little time and effort into my work. O:-1 C:-1
+I don't pay attention. O:-1 C:-1
+I purchase only practical things. E:-1 C:1
+I tend to dislike impulsive people. E:-1 C:1
+I take precautions. E:-1 C:1
+I never splurge. E:-1 C:1
+I never spend more than I can afford. E:-1 C:1
+I do crazy things. E:1 C:-1
+I often make last-minute plans. E:1 C:-1
+I am easily talked into doing silly things. E:1 C:-1
+I laugh at the slightest provocation. E:1 C:-1
+I like to laugh out loud. E:1 C:-1
+I like to act on a whim. E:1 C:-1
+I jump into things without thinking. E:1 C:-1
+I do things in a logical order. A:-1 C:1
+I come straight to the point. A:-1 C:1
+I believe in a logical answer for everything. A:-1 C:1
+I get a head start on others. A:-1 C:1
+I dislike imperfect work. A:-1 C:1
+I believe in an eye for an eye. A:-1 C:1
+I have no sympathy for criminals. A:-1 C:1
+I reason logically. A:-1 C:1
+I sympathize with the homeless. A:1 C:-1
+I am not as strict as I should be. A:1 C:-1
+I let people pull my leg. A:1 C:-1
+I do things in a half-way manner. A:1 C:-1
+I let my attention wander off. A:1 C:-1
+I believe that criminals should receive help rather than punishment. A:1 C:-1
+I continue until everything is perfect. N:-1 C:1
+I want every detail taken care of. N:-1 C:1
+I want everything to be \"just right\". N:-1 C:1
+I want things to proceed according to plan. N:-1 C:1
+I demand perfection in others. N:-1 C:1
+I keep a sharp eye on others' work. N:-1 C:1
+I expect dedicated work from others. N:-1 C:1
+I am not bothered by messy people. N:1 C:-1
+I am not bothered by disorder. N:1 C:-1
+I like order. O:-1 C:1
+I follow a schedule. O:-1 C:1
+I work according to a routine. O:-1 C:1
+I like to tidy up. O:-1 C:1
+I do things by the book. O:-1 C:1
+I take good care of my belongings. O:-1 C:1
+I see that rules are observed. O:-1 C:1
+I leave my belongings around. O:1 C:-1
+I leave a mess in my room. O:1 C:-1
+I dislike routine. O:1 C:-1
+I seldom get mad. N:1
+I am not easily bothered by things. N:1
+I am not easily frustrated. N:1
+I seldom take offense. N:1
+I keep my cool. N:1
+I get stressed out easily. N:-1
+I get upset easily. N:-1
+I am easily disturbed. N:-1
+I change my mood a lot. N:-1
+I get caught up in my problems. N:-1
+I seldom feel blue. E:1 N:1
+I feel comfortable with myself. E:1 N:1
+I adapt easily to new situations. E:1 N:1
+I look at the bright side of life. E:1 N:1
+I am sure of my ground. E:1 N:1
+I often feel blue. E:-1 N:-1
+I worry about things. E:-1 N:-1
+I feel threatened easily. E:-1 N:-1
+I dislike myself. E:-1 N:-1
+I am filled with doubts about things. E:-1 N:-1
+I rarely get irritated. A:1 N:1
+I am not easily annoyed. A:1 N:1
+I take things as they come. A:1 N:1
+I accept people as they are. A:1 N:1
+I get angry easily. A:-1 N:-1
+I am often in a bad mood. A:-1 N:-1
+I get furious. A:-1 N:-1
+I snap at people. A:-1 N:-1
+I lose my temper. A:-1 N:-1
+I have days when I'm mad at the world. A:-1 N:-1
+I remain calm under pressure. C:1 N:1
+I easily resist temptations. C:1 N:1
+I rarely overindulge. C:1 N:1
+I am able to control my cravings. C:1 N:1
+I am guided by my moods. C:-1 N:-1
+I am not sure where my life is going. C:-1 N:-1
+I don't know why I do some of the things I do. C:-1 N:-1
+I get out of control. C:-1 N:-1
+I can't concentrate. C:-1 N:-1
+I do things I later regret. C:-1 N:-1
+I am calm even in tense situations. O:1 N:1
+I don't lose my head. O:1 N:1
+I know how to cope. O:1 N:1
+I can stand criticism. O:1 N:1
+I take offense easily. O:-1 N:-1
+I panic easily. O:-1 N:-1
+I am easily hurt. O:-1 N:-1
+I am easily offended. O:-1 N:-1
+I feel crushed by setbacks. O:-1 N:-1
+I become overwhelmed by events. O:-1 N:-1
+I am easily frightened. O:-1 N:-1
+I am easily confused. O:-1 N:-1
+I keep my emotions under control. E:-1 N:1
+I let others finish what they are saying. E:-1 N:1
+I demand attention. E:1 N:-1
+I react intensely. E:1 N:-1
+I talk even when I know I shouldn't. E:1 N:-1
+I often make a fuss. E:1 N:-1
+I shoot my mouth off. E:1 N:-1
+I am easily excited. E:1 N:-1
+I blurt out whatever comes into my mind. E:1 N:-1
+I barge in on conversations. E:1 N:-1
+I like to gossip. E:1 N:-1
+I seldom get emotional. A:-1 N:1
+I am not easily affected by my emotions. A:-1 N:1
+I get overwhelmed by emotions. A:1 N:-1
+I cry easily. A:1 N:-1
+I burst into tears. A:1 N:-1
+I am easily moved to tears. A:1 N:-1
+I cry during movies. A:1 N:-1
+I wear my heart on my sleeve. A:1 N:-1
+I have crying fits. A:1 N:-1
+I want everything to add up perfectly. C:1 N:-1
+I demand obedience. C:1 N:-1
+I keep up an appearance. C:1 N:-1
+I love order and regularity. C:1 N:-1
+I am attached to conventional ways. C:1 N:-1
+I want things done my way. C:1 N:-1
+I am a creature of habit. C:1 N:-1
+I try to impress others. C:1 N:-1
+I can't stand being contradicted. C:1 N:-1
+I want to be told I am right. C:1 N:-1
+I experience very few emotional highs and lows. O:-1 N:1
+I tend to feel the same every day. O:-1 N:1
+I am always in the same mood. O:-1 N:1
+I rarely notice my emotional reactions. O:-1 N:1
+I am relaxed most of the time. O:-1 N:1
+I am not easily stirred. O:-1 N:1
+I am not disturbed by events. O:-1 N:1
+I experience my emotions intensely. O:1 N:-1
+I have frequent mood swings. O:1 N:-1
+I am swayed by my emotions. O:1 N:-1
+I can be stirred up easily. O:1 N:-1
+I have a rich vocabulary. O:1
+I use difficult words. O:1
+I make insightful remarks. O:1
+I show a mastery of language. O:1
+I enjoy thinking about things. O:1
+I try to understand myself. O:1
+I am not interested in abstract ideas. O:-1
+I will not probe deeply into a subject. O:-1
+I have a poor vocabulary. O:-1
+I dislike learning. O:-1
+I skip difficult words while reading. O:-1
+I am full of ideas. E:1 O:1
+I have excellent ideas. E:1 O:1
+I carry the conversation to a higher level. E:1 O:1
+I come up with bold plans. E:1 O:1
+I quickly think up new ideas. E:1 O:1
+I am good at many things. E:1 O:1
+I do not have a good imagination. E:-1 O:-1
+I have difficulty imagining things. E:-1 O:-1
+I can't come up with new ideas. E:-1 O:-1
+I see beauty in things that others might not notice. A:1 O:1
+I take time to reflect on things. A:1 O:1
+I make beautiful things. A:1 O:1
+I enjoy the beauty of nature. A:1 O:1
+I enjoy discussing movies and books with others. A:1 O:1
+I like music. A:1 O:1
+I love flowers. A:1 O:1
+I love beautiful things. A:1 O:1
+I do not like concerts. A:-1 O:-1
+I do not enjoy watching dance performances. A:-1 O:-1
+I learn quickly. C:1 O:1
+I use my brain. C:1 O:1
+I excel in what I do. C:1 O:1
+I look at the facts. C:1 O:1
+I meet challenges. C:1 O:1
+I seek explanations of things. C:1 O:1
+I need things explained only once. C:1 O:1
+I know how to apply my knowledge. C:1 O:1
+I can handle complex problems. N:1 O:1
+I am quick to understand things. N:1 O:1
+I catch on to things quickly. N:1 O:1
+I love to read challenging material. N:1 O:1
+I am able to find out things by myself. N:1 O:1
+I can handle a lot of information. N:1 O:1
+I quickly get the idea of things. N:1 O:1
+I avoid difficult reading material. N:-1 O:-1
+I try to avoid complex people. N:-1 O:-1
+I don't understand things. N:-1 O:-1
+I spend time reflecting on things. E:-1 O:1
+I enjoy spending time by myself. E:-1 O:1
+I live in a world of my own. E:-1 O:1
+I enjoy my privacy. E:-1 O:1
+I don't mind eating alone. E:-1 O:1
+I do things at my own pace. E:-1 O:1
+I enjoy contemplation. E:-1 O:1
+I prefer to be alone. E:-1 O:1
+I have a point of view all my own. E:-1 O:1
+I want to be left alone. E:-1 O:1
+I can't stand being alone. E:1 O:-1
+I don't like to ponder over things. E:1 O:-1
+I like to solve complex problems. A:-1 O:1
+I ask questions that nobody else does. A:-1 O:1
+I know the answers to many questions. A:-1 O:1
+I challenge others' points of view. A:-1 O:1
+I can easily link facts together. A:-1 O:1
+I have difficulty understanding abstract ideas. A:1 O:-1
+I avoid philosophical discussions. A:1 O:-1
+I am not interested in theoretical discussions. A:1 O:-1
+I consider myself an average person. A:1 O:-1
+I am not interested in speculating about things. A:1 O:-1
+I have a vivid imagination. C:-1 O:1
+I prefer variety to routine. C:-1 O:1
+I believe in the importance of art. C:-1 O:1
+I enjoy wild flights of fantasy. C:-1 O:1
+I need a creative outlet. C:-1 O:1
+I do not like art. C:1 O:-1
+I do not enjoy going to art museums. C:1 O:-1
+I do not like poetry. C:1 O:-1
+I seldom get lost in thought. C:1 O:-1
+I seldom daydream. C:1 O:-1
+I look for hidden meanings in things. N:-1 O:1
+I like to get lost in thought. N:-1 O:1
+I think deeply about things. N:-1 O:1
+I need to understand my motives. N:-1 O:1
+I tend to analyze things. N:-1 O:1
+I tend to think about something for hours. N:-1 O:1
+I enjoy examining myself and my life. N:-1 O:1
+I rarely look for a deeper meaning in things. N:1 O:-1
+I never challenge things. N:1 O:-1
